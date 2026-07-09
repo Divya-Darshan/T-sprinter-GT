@@ -1,9 +1,3 @@
-# Project Trueno: Real-Time Drift Car Prototype
-
-A low-latency, wirelessly controlled RC drift vehicle built using the ESP8266 (Lolin D1 Mini) architecture. This project uses persistent WebSockets for instant, real-time control responses with zero page-reload lag.
-
----
-
 ## Current Status: Proof of Concept Working!
 - [x] **Autonomous Wi-Fi:** Microcontroller successfully hosts its own local offline network.
 - [x] **Instant Communication:** WebSockets over Port 81 eliminate the 15-second browser lag.
